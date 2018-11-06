@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="REST_API_test" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-11-06T02:56:09" hostname="LNIGELOL" time="1.982">
+  <properties/>
+  <testcase name="postResponse" classname="REST_API_test" time="1.884"/>
+  <testcase name="postResponseWithParam" classname="REST_API_test" time="0.031"/>
+  <testcase name="simpleExample" classname="REST_API_test" time="0.066"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
